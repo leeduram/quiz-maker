@@ -2,6 +2,20 @@
 
 문제를 직접 만들고, 저장하고, 풀고, 채점까지 할 수 있는 Windows용 학습 프로그램입니다.
 
+## 화면
+
+| 메인 화면 | 문제 만들기 |
+|---|---|
+| <img src="screenshots/main.png" width="400"> | <img src="screenshots/edit.png" width="400"> |
+
+| 문제집 목록 | 미리보기 |
+|---|---|
+| <img src="screenshots/list.png" width="400"> | <img src="screenshots/preview.png" width="400"> |
+
+| 풀이 | 채점 결과 |
+|---|---|
+| <img src="screenshots/solve.png" width="400"> | <img src="screenshots/grading.png" width="400"> |
+
 ## 주요 기능
 
 - 문제 만들기: 단답형, OX, 객관식(단일 선택 / 복수 선택)
